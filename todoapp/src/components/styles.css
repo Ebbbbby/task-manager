@@ -97,14 +97,14 @@
   transform: scale(1.03);
 }
 
-.todos__single--text {
+.todos__single__text {
   flex: 1;
   padding: 5px;
   border: none;
   font-size: 20px;
 }
 
-.todos__single--text:focus {
+.todos__single__text:focus {
   outline: none;
 }
 
